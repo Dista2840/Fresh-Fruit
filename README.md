@@ -25,7 +25,7 @@ Pada Method `Fruit.cs` itu merupakan Logic View yang digunakan untuk menampilkan
         }
     }
 ``` 
-logic model bisnis pada `MainWindow.xaml.cs` digunakan untuk menambahkan buah dengan cara menekan tombol ADD pada setiap gambar , dan menampilkannya pada listbox melalui method `Fruit.cs`.
+logic model bisnis pada `MainWindow.xaml.cs` digunakan untuk menambahkan buah dengan cara menekan tombol Add pada setiap gambar , dan menampilkannya pada listbox melalui method `Fruit.cs`.
 berikut merupakan source code pada `MainWindow.xaml.cs`
 ``` csharp
   private void OnButtonAddAnggurClicked(object sender, RoutedEventArgs e)
